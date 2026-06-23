@@ -1,7 +1,73 @@
-# Hi, I'm Rupesh 👋
+# Hi, I'm Rupesh <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="28px">
 
-🎓 2nd Year CSE Student  
-💻 Interested in UI, AI, and full-stack development  
+<p align="left">
+  <img src="https://img.shields.io/badge/Current-5th%20Sem%20CSE%20%40%20Amrita-fb2576?style=for-the-badge" alt="Amrita Vishwa Vidyapeetham">
+  <img src="https://img.shields.io/badge/Focus-MERN%20%7C%20AI%20%7C%20DSA-080710?style=for-the-badge&border=fb2576" alt="Focus">
+</p>
 
-## 🔗 Connect
-- GitHub: https://github.com/MR7star
+---
+
+### 🚀 About Me
+I'm a Computer Science & Engineering student at **Amrita Vishwa Vidyapeetham** who spends way too much time staring at VS Code. Whether it’s figuring out a tricky Data Structures & Algorithms bottleneck in C, or wiring up full-stack endpoints for a MERN application, I live for that "aha!" moment when a broken layout finally clicks. 
+
+* 💻 **Currently building:** Scalable full-stack tools and diving deeper into AI pipelines.
+* 🧠 **Thinking about:** Efficient algorithm runtimes, hash-maps, and clean UI code.
+* ⚡ **Fun Fact:** My laptop sounding like a jet engine is usually the first sign of an unoptimized loop.
+
+---
+
+### 🛠️ Tech Stack & Toolkit
+
+#### 📦 Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</p>
+
+#### 🧰 Frameworks & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+</p>
+
+#### 💾 Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+</p>
+
+---
+
+### 🧩 The "Middle of the Night" Bug (How I Think)
+> **The Problem:** I was processing large datasets in Python, but as the load scaled, the program completely crawled. The nested loops were burning up computational runtime.
+> 
+> **The Fix:** Instead of trying to patch it over, I went back to basic DSA. I optimized the messy iteration tracks into a high-performance hash-map architecture and pushed the core mathematical calculations to a C backend script. Execution plummeted from long minutes down to a clean, instantaneous 2 seconds.
+
+---
+
+### 📊 GitHub Metrics & Activity
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MR7star&show_icons=true&theme=tokyonight&count_private=true" alt="Rupesh GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MR7star&theme=tokyonight" alt="Rupesh Streak Stats" width="48%">
+</p>
+
+---
+
+### 🔗 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:muthurupesh2007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
