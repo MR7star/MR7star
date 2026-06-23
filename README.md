@@ -44,30 +44,3 @@ I'm a Computer Science & Engineering student at **Amrita Vishwa Vidyapeetham** w
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </p>
-
----
-
-### 🧩 The "Middle of the Night" Bug (How I Think)
-> **The Problem:** I was processing large datasets in Python, but as the load scaled, the program completely crawled. The nested loops were burning up computational runtime.
-> 
-> **The Fix:** Instead of trying to patch it over, I went back to basic DSA. I optimized the messy iteration tracks into a high-performance hash-map architecture and pushed the core mathematical calculations to a C backend script. Execution plummeted from long minutes down to a clean, instantaneous 2 seconds.
-
----
-
-### 📊 GitHub Metrics & Activity
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MR7star&show_icons=true&theme=tokyonight&count_private=true" alt="Rupesh GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MR7star&theme=tokyonight" alt="Rupesh Streak Stats" width="48%">
-</p>
-
----
-
-### 🔗 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:muthurupesh2007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
