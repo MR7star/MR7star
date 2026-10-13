@@ -1,68 +1,46 @@
-# Rupesh
+# Hi, I'm Rupesh <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="28px">
 
-Computer Science & Engineering undergraduate at Amrita Vishwa Vidyapeetham (5th semester), focused on AI/ML pipelines, full-stack MERN development, and data structures & algorithms.
-
-[![GitHub](https://img.shields.io/badge/GitHub-MR7star-000000?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/MR7star)
-[![Portfolio](https://img.shields.io/badge/Portfolio-mr7star.github.io-333333?style=flat-square&logo=githubpages&logoColor=ffffff)](https://mr7star.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000000?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contact-333333?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:YOUR_EMAIL)
+<p align="left">
+  <img src="https://img.shields.io/badge/Current-5th%20Sem%20CSE%20%40%20Amrita-fb2576?style=for-the-badge" alt="Amrita Vishwa Vidyapeetham">
+  <img src="https://img.shields.io/badge/Focus-MERN%20%7C%20AI%20%7C%20DSA-080710?style=for-the-badge&border=fb2576" alt="Focus">
+</p>
 
 ---
 
-## 👤 Profile
+### 🚀 About Me
+I'm a Computer Science & Engineering student at **Amrita Vishwa Vidyapeetham** who spends way too much time staring at VS Code. Whether it’s figuring out a tricky Data Structures & Algorithms bottleneck in C, or wiring up full-stack endpoints for a MERN application, I live for that "aha!" moment when a broken layout finally clicks. 
 
-I design and build software across three areas:
-
-- **AI/ML pipelines:** Autonomous, tool-using agents (ReAct-style) that plan, act, recover from failures, and verify outcomes.
-- **Full-stack development:** MERN applications with RESTful APIs, relational and document-store persistence, and component-based frontends.
-- **Data structures & algorithms:** Implementation in C and Python, with attention to time and space complexity, hashing, and prefix-based structures.
-
----
-
-## 🎯 Current Focus
-
-- Building scalable full-stack applications with clean API boundaries
-- Developing agentic AI systems, including retrieval-augmented generation (RAG) workflows
-- Strengthening algorithmic fundamentals: trees, graphs, and dynamic programming
+    💻 **Currently building:** Scalable full-stack tools and diving deeper into AI pipelines.
+    🧠 **Thinking about:** Efficient algorithm runtimes, hash-maps, and clean UI code.
+    ⚡ **Fun Fact:** My laptop sounding like a jet engine is usually the first sign of an unoptimized loop.
 
 ---
 
-## 🛠 Technical Skills
+### 🛠️ Tech Stack & Toolkit
 
-### Languages
-C, Java, Python, JavaScript, HTML5, CSS3
+#### 📦 Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</p>
 
-### Frameworks & Tools
-React, Node.js, Express, Tailwind CSS, Bootstrap, Streamlit, Git, Docker
+#### 🧰 Frameworks & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+</p>
 
-### Databases
-MongoDB, MySQL, PostgreSQL
-
----
-
-## 📁 Projects
-
-| Project | Description | Technologies Used |
-|---|---|---|
-| [Autonomous Customer Resolution Agent](https://github.com/MR7star/X-factor_Github_Agentic) | Goal-driven agent built for the Tech Zephyr 4.0 Agentic AI Hackathon (IIT Bhubaneswar). Runs an observe-plan-act loop against simulated order, inventory, and refund services. On a failed action (e.g. out-of-stock replacement), it retrieves fallback rules, replans to a refund, and verifies the resulting database state before closing the case. | Python, Streamlit, ReAct agent architecture |
-| [Fake News Detector](https://github.com/MR7star/Fake-News-Detector) | Text classifier built on algorithmic design rather than heavy ML. Combines a Trie for prefix-based keyword lookup with HashMaps for O(1) frequency and context scoring across a 20,000+ article dataset. Team project (4 contributors); my contributions were HashMap development and dataset creation. | Python, Trie, HashMap, text preprocessing |
-| [Train Booking System](https://github.com/MR7star/train-booking-system) | Add a one-sentence description of the system's scope and key features. | Add technologies used |
-| [Personal Portfolio](https://mr7star.github.io) | Static personal website hosted on GitHub Pages. | HTML, CSS |
-
----
-
-## 🎓 Education
-
-**Amrita Vishwa Vidyapeetham**
-Computer Science & Engineering (in progress)
-
----
-
-## 📬 Contact
-
-- GitHub: [github.com/MR7star](https://github.com/MR7star)
-- Portfolio: [mr7star.github.io](https://mr7star.github.io)
-- LinkedIn: [linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/YOUR_LINKEDIN)
-- Email: YOUR_EMAIL
-
-Open to internships and engineering collaborations.
+#### 💾 Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+</p>
