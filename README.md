@@ -8,8 +8,6 @@ Projects include web applications, data analysis, and embedded systems. Explorin
 
 
 
-<h3>Tech Stack</h3>
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,react,angular,html,css,tailwind,nodejs,express,flask,pytorch,opencv,mongodb,sqlite,docker,git,arduino&theme=dark" />
 </p>
